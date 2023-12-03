@@ -1,0 +1,10 @@
+/opt/bongo/logs/8804b76333/main.log {
+        hourly
+        size 10G
+        missingok
+        rotate 1
+        compress
+        delaycompress
+        notifempty
+        copytruncate
+}
